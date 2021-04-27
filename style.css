@@ -1,0 +1,38 @@
+#img1 {
+    height: 500px;
+    width: 750px;
+}
+
+#img2 {
+    height: 350px;
+    width: 350px;
+}
+
+#img3 {
+    height: 350px;
+    width: 350px;
+}
+
+#img4 {
+    height: 350px;
+    width: 350px;
+}
+
+#img5 {
+    height: 350px;
+    width: 350px;
+}
+
+#img6 {
+    height: 350px;
+    width: 350px;
+}
+
+#img7 {
+    height: 350px;
+    width: 350px;
+}
+body{
+    text-align: center;
+    background-color: cyan;
+}
